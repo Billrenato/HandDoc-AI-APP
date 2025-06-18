@@ -1,0 +1,32 @@
+name: handdoc_ai
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+
+  # Dependências adicionadas para o HandDoc AI
+  image_picker: ^1.0.0
+  permission_handler: ^11.0.0
+  http: ^1.0.0
+  dio: ^5.0.0
+  path_provider: ^2.0.0
+  pdf: ^3.10.0
+  printing: ^5.9.0
+  share_plus: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
