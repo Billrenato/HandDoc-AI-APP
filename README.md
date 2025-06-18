@@ -49,14 +49,14 @@
 
 ### 4. 📥 Resultado da OCR
 
-```json
-    {
-    "filename": "img.PNG",
-    "text": "Texto reconhecido aqui...",
-    "timestamp": "2025-06-18T10:30:00"
-    }
+json
+        {
+        "filename": "img.PNG",
+        "text": "Texto reconhecido aqui...",
+        "timestamp": "2025-06-18T10:30:00"
+        }
 
-Exibição: Tela de texto OCR + Botões para salvar/exportar
+ Exibição: Tela de texto OCR + Botões para salvar/exportar
 
 5. 📝 Exportação PDF/TXT
 Tipo	Ferramentas
